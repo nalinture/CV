@@ -1,0 +1,89 @@
+Nalinkumar Murugesan​
+Experience:  6.2 years​
+Mobail: +91-8122256560​
+Level: 10​
+Email: nalinkumar.murugesan@accenture.com​
+Location: Bengaluru, India
+
+Professional Background
+Nalinkumar is a DevOps Engineer with 6.2 years of  experience across the DevOps lifecycle. He has expertise in a wide range of technologies, including Mainframe DevOps, Endevor-z/OS, Jenkins, Linux, Shell Scripting, PowerApps(PFx), GitHub Actions, OCF, PCF, AWS, Terraform, Kubernetes, SharePoint Online, UCD, and JIRA.​
+
+Nalin holds a Bachelor of Engineering degree from Anna University. He has been involved in all phases of the DevOps cycle, from planning and repository handling to production deployment and monitoring. His experience encompasses infrastructure planning and setup, building, testing, releasing, deploying, and monitoring.​
+
+Key areas of his professional experience include:​
+
+Designing and developing Jenkinsfiles in Groovy Script for creating various Jenkins pipelines.​
+
+Creating and modifying Shell/Batch scripts for application automation.​
+
+Monitoring, optimizing, and scaling infrastructure.​
+
+Creating and modifying GitHub Actions workflow YAML files to optimize build and deployment processes.​
+
+Planning and optimizing GitHub/SVN branches to manage multiple releases.​
+
+Nalin is keen on learning new skills and is known for being a good team player.​
+
+Being part of Release Management team, Nalinkumar also leads an Automation team focused on developing value-added solutions for clients. He encourages and guides team members, sharing his knowledge to support their interests and growth.
+
+Certifications/Awards:
+Expert@myC Award for P4​
+
+Trailblaizer Award FY24 Q1​
+
+Excellence Award FY23 ​
+
+ACE Award FY20 Q3
+
+AWS Solution Architect Associate                                                                    ​
+
+Hashicorp Terraform Infrastruture Automation Associate​
+
+Kubenetes and Cloud Native Associate​
+
+Aviatrix Multi-Cloud Networking Associate​
+
+Google Cloud Digital Leader
+
+Technical Experience
+AWS (IAM,S3,EC2,Lambda,EKS,etc.,)         JSON, YAML                                                  Kubernetes​
+Terraform                                                            Shell/Batch/Groovy Scripting                   Power Fx            ​
+
+Linux, z/Os (Mainframe)                                 Github Actions, Jenkins
+
+Selected Experience
+As a DevOps Engineer specializing in automating build and deployment (CI/CD) processes using Jenkins and GitHub Actions. His expertise includes integrating shell/batch scripts with Groovy (Jenkinsfile), streamlining and automating application processes, and managing Git/SVN repositories and SharePoint Online.​
+
+Developed GitHub Actions Workflow YAML files to fetch source code, build, and deploy in application databases.​
+
+Played a key role in planning, designing, and creating SharePoint Online Forms templates using PowerApps, leveraging Power Fx language.​
+
+Solved a longstanding issue that hindered SharePoint Online Forms development by streamlining source data from a single source to multiple sources.​
+
+Troubleshoots build and deployment failures in Jenkins and Created Jenkinsfiles for HSP.​
+
+Creates and modifies shell/batch scripts to fetch and analyze application source code, build, and deploy to application servers from GitHub/SVN.​
+
+Plans, designs, and creates various application processes for deployments.​
+
+Converted and modified shell scripts during SVN to GitHub migrations.​
+
+Automated manual workflows using shell/batch scripts.​
+
+Managed the migration of over 15 applications from PCF to OCF.​
+
+Created Jenkins pipelines for various application deployments.​
+
+Optimizes and scales infrastructure and application memory as needed.​
+
+One of the few resources with experience and knowledge in COBOL migrations and deployments, including host migrations.​
+
+Worked with Endevor on staging, packaging, DB2 Bind Generation, data archiving, new copy, and cleanup for CICS elements.​
+
+Managed the build and generation of over 50 Coolgen applications.​
+
+Handled 150 COBOL-based applications.
+
+Personal Works (out of own interest) : Deploying Python app in AWS Lambda and invoking it using Terraform (https://github.com/nalinture/aws_lambda.git)​
+Github Actions CICD for deploying Terraform (Create tfapply.yml · nalinture/aws_lambda@f2decee) ​
+Hosting a static website using AWS S3 ,Terraform & GHA(birthday/main.tf at master · nalinture/birthday) Spotify Playlist Creation using Terraform (nalinture/Spotify_Playlist)​
